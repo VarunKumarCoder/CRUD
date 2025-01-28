@@ -1,1 +1,1 @@
-System.out.println("Welcome");
+System.out.println("Welcome to java");
